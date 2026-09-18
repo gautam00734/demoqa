@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Cypress generated files
+cypress/reports/
+cypress/screenshots/
+cypress/videos/
+
+# Environment files
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db

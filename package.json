@@ -1,0 +1,13 @@
+{
+  "name": "cypressa-automation-pom",
+  "version": "1.0.0",
+  "description": "Cypress DemoQA automation using Page Object Model",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.0.0",
+    "cypress-mochawesome-reporter": "^5.0.0"
+  }
+}
